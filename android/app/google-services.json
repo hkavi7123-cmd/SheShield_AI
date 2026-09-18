@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122663162867",
+    "project_id": "sheshieldai-63fb7",
+    "storage_bucket": "sheshieldai-63fb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122663162867:android:f5efd14d4edbbc0cacb886",
+        "android_client_info": {
+          "package_name": "com.hariharan.sheshieldai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqwlqJTlzYIyqgbicfunKF1vRXaaGkllM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
